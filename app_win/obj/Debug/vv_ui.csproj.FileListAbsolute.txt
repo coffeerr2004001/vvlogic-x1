@@ -1,0 +1,9 @@
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\bin\Debug\vv_ui.exe.config
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\bin\Debug\vv_ui.exe
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\bin\Debug\vv_ui.pdb
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\obj\Debug\vv_ui.csprojResolveAssemblyReference.cache
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\obj\Debug\vv_ui.Form1.resources
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\obj\Debug\vv_ui.Properties.Resources.resources
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\obj\Debug\vv_ui.csproj.GenerateResource.Cache
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\obj\Debug\vv_ui.exe
+D:\baiduyun\vs\vvui\vv_ui\vv_ui\obj\Debug\vv_ui.pdb
